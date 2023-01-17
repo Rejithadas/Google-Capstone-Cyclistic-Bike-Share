@@ -9,7 +9,7 @@ In this scenario I am a junior data analyst at Cyclistic and my team has been ta
 But before analyzing the data, I asked a few questions to myself and these questions helped me to give direction and structure to my analysis.<br/>1.How do annual members and Casual riders use Cyclistic bikes differently?<br/>2.Why would Casual riders buy Cyclistic annual memberships?<br/>3.How can Cyclistic use digital media to influence Casual riders to become members?
 
 ANALYSIS<br/>
-I first downloaded the data from [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html), analyzed the data in Excel, then used SQL to analyze the data as a whole (one year). Finally I created a dashboard in Power BI.
+I first downloaded the data from [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html), analyzed the data in Excel, then used [SQL](https://github.com/Rejithadas/Google-Capstone-Project/blob/main/cycle.sql) to analyze the data as a whole (one year). Finally I created a dashboard in Power BI.
 <br/>**CONCLUSION**
 <br/>RECOMMENDATIONS
 
