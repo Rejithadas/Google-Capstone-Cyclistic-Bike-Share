@@ -10,9 +10,13 @@ Our finance analysts concluded that annual members are much more profitable than
 
 In conclusion, we need to figure out how to turn casual riders into members.
 
+**GOAL**
+
 In this scenario I am a junior data analyst at Cyclistic and my team has been tasked with the overall goal to identify the trends by analyzing Cyclistic's historical bike trip data.
-But before analyzing the data, I asked a few questions to myself:-
+But before analyzing the data, I asked a few questions to myself and these questions helped me to give direction and structure to my analysis.
+
 1.How do annual members and Casual riders use Cyclistic bikes differently?
+
 2.Why would Casual riders buy Cyclistic annual memberships?
+
 3.How can Cyclistic use digital media to influence Casual riders to become members?
-These questions helped me to give direction and structure to my analysis.
