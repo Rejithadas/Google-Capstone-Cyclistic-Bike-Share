@@ -11,7 +11,7 @@ But before analyzing the data, I asked a few questions to myself and these quest
 ANALYSIS<br/>
 I first downloaded the bike share consumer data from [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html), analyzed the data in Excel, then used [SQL](https://github.com/Rejithadas/Google-Capstone-Project/blob/main/cycle.sql) to analyze the data as a whole (one year). 
 Finally I created a dashboard in Power BI.
-<br/>Cyclistic provided a total of 6 million rides to its customers, with Cyclistic members accounting for 3 million rides and Casual riders accounting for 2 million rides.<br/> The average ride length for all users is 16.01 minutes,while Cyclistic Members only rode for 12.35 minutes on average, Casual riders rode for 21.32 minutes on average.
+<br/>* Cyclistic provided a total of 6 million rides to its customers, with Cyclistic members accounting for 3 million rides and Casual riders accounting for 2 million rides.<br/>* The average ride length for all users is 16.01 minutes,while Cyclistic Members only rode for 12.35 minutes on average, Casual riders rode for 21.32 minutes on average.<br/>
 **CONCLUSION**
 <br/>RECOMMENDATIONS
 
