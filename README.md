@@ -9,8 +9,10 @@ In this scenario I am a junior data analyst at Cyclistic and my team has been ta
 But before analyzing the data, I asked a few questions to myself and these questions helped me to give direction and structure to my analysis.<br/>1.How do annual members and Casual riders use Cyclistic bikes differently?<br/>2.Why would Casual riders buy Cyclistic annual memberships?<br/>3.How can Cyclistic use digital media to influence Casual riders to become members?
 
 ANALYSIS<br/>
-I first downloaded the data from [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html), analyzed the data in Excel, then used [SQL](https://github.com/Rejithadas/Google-Capstone-Project/blob/main/cycle.sql) to analyze the data as a whole (one year). Finally I created a dashboard in Power BI.
-<br/>**CONCLUSION**
+I first downloaded the bike share consumer data from [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html), analyzed the data in Excel, then used [SQL](https://github.com/Rejithadas/Google-Capstone-Project/blob/main/cycle.sql) to analyze the data as a whole (one year). 
+Finally I created a dashboard in Power BI.
+<br/>Cyclistic provided a total of 6 million rides to its customers, with Cyclistic members accounting for 3 million rides and Casual riders accounting for 2 million rides.<br/> The average ride length for all users is 16.01 minutes,while Cyclistic Members only rode for 12.35 minutes on average, Casual riders rode for 21.32 minutes on average.
+**CONCLUSION**
 <br/>RECOMMENDATIONS
 
 
