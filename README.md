@@ -11,7 +11,7 @@ Data Analysis : [MSSQL](https://github.com/Rejithadas/Google-Capstone-Project/bl
 
 Data Visualization: [Power BI](https://www.novypro.com/project/google-capstone-%7C-cyclistic-bike-share)
 
-Data Reporting: [PowerPoint]()
+Data Reporting: [PowerPoint](https://github.com/Rejithadas/Google-Capstone-Project/blob/main/Cyclistic%20Bike%20Share.pdf)
 
 # BUSINESS PROBLEM
 How do annual members and Casual riders use Cyclistic bikes differently?
