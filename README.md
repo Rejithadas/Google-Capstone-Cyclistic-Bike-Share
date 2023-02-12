@@ -7,7 +7,7 @@ Until now, Cyclistic's marketing strategy relied on building public awareness an
 
 Tools Used:
 
-Data Analysis : [MSSQL]()
+Data Analysis : [MSSQL](https://github.com/Rejithadas/Google-Capstone-Project/blob/main/Cyclistic%20Bike%20Share%20Analysis.sql)
 
 Data Visualization: [Power BI](https://www.novypro.com/project/google-capstone-%7C-cyclistic-bike-share)
 
