@@ -1,18 +1,46 @@
-# Google-Capstone-Project
+# CYCLISTIC BIKE-SHARE ANALYSIS
+## ABOUT COMPANY
+Cyclistic is a popular bike-sharing company based in Chicago , with more than 5,824 bikes that are geo-tracked and locked into a network of 692 stations.Bikes can be unlocked at any time and brought back to any other station in the network.
 
-<b>ABOUT COMPANY<b/>
+Until now, Cyclistic's marketing strategy relied on building public awareness and appealing to a broad consumer segment.One tactic that helped make things possible was the price plans flexibility: single-ride passes, full-day permits, and annual memberships.Customers who purchase single-ride or full-day passes are referred to as casual riders while those who purchase annual memberships are Cyclistic members.
 
-In 2016, [Cyclistic](https://d3c33hcgiwev3.cloudfront.net/aacF81H_TsWnBfNR_x7FIg_36299b28fa0c4a5aba836111daad12f1_DAC8-Case-Study-1.pdf?Expires=1674086400&Signature=BnSemZf2ioylF4NN6rTNdrlqn81Cb-nIiF68gtwX2jymVCLdUXsZFKyuz7s2XVdg15F84dOeieHXnMdXwqTDiWXgtZF5mdCSKy93ELLLx86~S8WDwc9xb66QvBTEeW53oksvX5lJPk~JO~~6mWk2AY9VwtjxLC3QdK5rOG2K2nI_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A) launched a popular bike-sharing programme with more than 5,824 bikes that are geo-tracked and locked into a network of 692 stations throughout Chicago.Bikes can be unlocked at any time and brought back to any other station in the network.<br/>Untill now, Cyclistic's marketing approach attempted to increase public awareness and appeal to a wide range of consumers.One tactic that made these things possible was the price plans flexibility, which allowed for single-ride passes, full-day permits, and annual memberships.Those who purchase single-ride or full-day passes are referred to as casual riders while those who purchase annual memberships are Cyclistic members.<br/>Our finance analysts concluded that annual members are much more profitable than Casual riders and my manager, Lily Moreno believed that maximizing the number of annual members will be key to future growth. She also thought there was a great possibility to turn casual riders into members rather than developing a marketing strategy that targeted only new clients.<br/>In conclusion, we need to figure out how to turn casual riders into members.
 
-**GOAL**<br/>
-In this scenario I am a junior data analyst at Cyclistic and my team has been tasked with the overall goal to identify the trends by analyzing Cyclistic's historical bike trip data.
-But before analyzing the data, I asked a few questions to myself and these questions helped me to give direction and structure to my analysis.<br/>1.How do annual members and Casual riders use Cyclistic bikes differently?<br/>2.Why would Casual riders buy Cyclistic annual memberships?<br/>3.How can Cyclistic use digital media to influence Casual riders to become members?
+Tools Used:
 
-ANALYSIS<br/>
-I first downloaded the bike share consumer data from [divvy-tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html), analyzed the data in Excel, then used [SQL](https://github.com/Rejithadas/Google-Capstone-Project/blob/main/cycle.sql) to analyze the data as a whole (one year). 
-Finally I created a dashboard in Power BI.
-<br/>* Cyclistic provided a total of 6 million rides to its customers, with Cyclistic members accounting for 3 million rides and Casual riders accounting for 2 million rides.<br/>* The average ride length for all users is 16.01 minutes,while Cyclistic Members only rode for 12.35 minutes on average, Casual riders rode for 21.32 minutes on average.<br/>
-**CONCLUSION**
-<br/>RECOMMENDATIONS
+Data Analysis : [MSSQL]()
+
+Data Visualization: [Power BI](https://www.novypro.com/project/google-capstone-%7C-cyclistic-bike-share)
+
+Data Reporting: [PowerPoint]()
+
+# BUSINESS PROBLEM
+How do annual members and Casual riders use Cyclistic bikes differently?
+
+Why would Casual riders buy Cyclistic annual memberships?
+
+How can Cyclistic use digital media to influence Casual riders to become members?
+
+## DATA ANALYSIS 
+- Out of the 5.6 million riders, 59% were members and 40% were casual riders. 
+- On average, member riders took 12.35 minutes per ride, whereas casual riders took 21.32 minutes per ride. 
+- Casual riders spend more time on bikes, despite being a smaller group compared to members.
+- Electric bikes were a hit among casual riders, while classic bikes were preferred by member riders. 
+- Saturdays were the busiest day for riders, with 51% being casual and 48% being members. 
+- During the weekend, there is an increase in casual riders, suggesting they use the service during their leisure time. 
+- Thursday and Wednesday were the busiest days for member riders, indicating they may use the service for work-related purposes. 
+- During the summer months,when the weather is warmer and outdoor activities are more popular both member and casual riders were most active, with July being the busiest month for casual riders and August for members. 
+- Both groups showed peak activity in the afternoon, with a peak time of 5 PM.
+
+## KEY FINDINGS & RECOMMENDATIONS
+
+How do annual members and Casual riders use Cyclistic bikes differently?
+- Both riders use bikes differently based on their individual needs. Annual members may use the service for work-related purposes, while Casual riders may use the bikes for leisure.
+
+Why would Casual riders buy Cyclistic annual memberships?
+- They may consider purchasing annual memberships if they find  purchasing single rides or full-day passes is more cost-effective for frequent use. 
+
+How can Cyclistic use digital media to influence Casual riders to become members?
+- Can be used to influence casual riders to become members by offering special discounts & promotions , can be used to improve customer experience for casual riders by addressing issues with bikes or stations , and can create targeted marketing campaigns, to increase the chances of converting them into members.
+
 
 
